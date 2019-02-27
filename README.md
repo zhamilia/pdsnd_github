@@ -4,7 +4,7 @@ Include the date you created this project and README file.
 ### My new project
 Replace the Project Title
 
-### Description
+### This project is created to improve the efficiency and readability of the code bikeshare.py
 Describe what your project is about and what it does
 
 ### Files used
