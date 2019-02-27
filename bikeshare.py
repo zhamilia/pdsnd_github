@@ -4,7 +4,7 @@ import time
 import pandas as pd
 import numpy as np
 
-# Creation of the lists months, day_of_week and dictionaries CITY_DATA for further use 
+# Creation of the lists months, day_of_week and dictionaries CITY_DATA for further use
 CITY_DATA = { 'chicago': 'chicago.csv',
               'new york city': 'new_york_city.csv',
               'washington': 'washington.csv' }
@@ -13,6 +13,7 @@ cities=CITY_DATA.keys()
 months = ['january', 'february', 'march', 'april', 'may', 'june']
 day_of_week=['sunday', 'monday', 'tuesday', 'wednesday', 'thursday', 'friday', 'saturday']
 
+# Function get_filters allows to filter data with specified day, month or not filter at all 
 def get_filters():
     """
     Asks user to specify a city, month, and day to analyze.
