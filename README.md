@@ -7,7 +7,7 @@ Replace the Project Title
 ### This project is created to improve the efficiency and readability of the code bikeshare.py
 Describe what your project is about and what it does
 
-### Files used
+### Files used: .gitignore (chicago.csv, new_york_city.csv, washington.csv), README.md, bikeshare.py
 Include the files used
 
 ### Credits
