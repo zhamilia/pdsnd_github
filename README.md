@@ -1,7 +1,7 @@
 ### 27 February 2019
 Include the date you created this project and README file.
 
-### Project Title
+### My new project
 Replace the Project Title
 
 ### Description
